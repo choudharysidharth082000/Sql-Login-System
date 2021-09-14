@@ -1,0 +1,5 @@
+Host: sql6.freesqldatabase.com
+Database name: sql6436843
+Database user: sql6436843
+Database password: ipZRXSRPGL
+Port number: 3306
