@@ -2,7 +2,7 @@
   "development": {
     "username": "sql6436843",
     "password": "ipZRXSRPGL",
-    "database": "database_development",
+    "database": "sql6436843",
     "host": "sql6.freesqldatabase.com",
     "dialect": "mysql"
   },
